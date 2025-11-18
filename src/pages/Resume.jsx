@@ -195,7 +195,7 @@ export default function Resume() {
           {[
             { name: "💻 GitHub", link: "https://github.com/nskishore7" },
             { name: "🔗 LinkedIn", link: "https://www.linkedin.com/in/kishore-n-113165368/" },
-            { name: "🌐 Portfolio", link: "" }, // update after hosting
+            { name: "🌐 Portfolio", link: "https://portfolio-kishore7.vercel.app/" }, // update after hosting
           ].map((site) => (
             <motion.a
               key={site.name}
